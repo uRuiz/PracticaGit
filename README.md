@@ -32,7 +32,7 @@ git log --graph --decorate
 
 **- El merge del paso 26, ¿Podría ser fast forward? ¿Por qué?**
 
-Si se podría haber hecho un merge Flash-forward porque no se perdería ningún commit de title al avanzar master.
+Si se podría haber hecho un merge Fast-forward porque no se perdería ningún commit de title al avanzar master.
 
 **- ¿Qué comando o comandos utilizaste en el paso 27?**
 
